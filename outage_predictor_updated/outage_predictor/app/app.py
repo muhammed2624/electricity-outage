@@ -364,8 +364,7 @@ if not is_historical:
         ⚠️ <b>Pattern-based forecast.</b> Voltix cannot predict a specific future outage event on an
         exact day — no dataset can support that level of certainty. For {selected_date.strftime('%B %Y')},
         what you'll see instead is a <b>seasonal risk estimate</b> — how this DisCo has historically
-        behaved in this calendar month, drawn from its trained risk model (built on
-        {DATA_MAX_MONTH.strftime('%B %Y')}-and-earlier operational trend data) — used as a proxy for
+        behaved in this calendar month, drawn from its trained risk model used as a proxy for
         what to expect. The <b>live Band and minimum-supply-hours data below is current</b> and separate
         from this seasonal estimate. Treat the gauge above as an informed pattern, not a forecast of a
         specific day.
