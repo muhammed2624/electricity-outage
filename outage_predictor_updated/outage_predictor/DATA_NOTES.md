@@ -248,6 +248,3 @@ that data becomes available (e.g. through a DisCo API or a future NERC
 disclosure requirement), the same Band/street-matching infrastructure
 already built here could be extended to it without a redesign.
 
-State this as a named, upfront limitation in the investor pitch rather
-than leaving it unaddressed — it's a believable next feature that shows
-where the product goes with better data access, not a gap to hide.
